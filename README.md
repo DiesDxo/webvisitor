@@ -2,7 +2,7 @@
 
 Bot visitor is used (GET HTTP) to send traffic to the target web/blog where this bot uses a proxy to determine different IP addresses.
 
-## Command Management Access
+## ⚒️ Command Management Access
 
 The following is cmd management in bot :
 
