@@ -9,9 +9,9 @@ The following is cmd management in bot :
 | /send_visitor `url` `bot` `delay`    | example : /send_visitor 100 5 |
 | /stop_visitor     | stop process bot |
 | /getproxy     | viewing proxy list |
-| /setproxy `ip:port`    | adds proxy |
-| /removeproxy `ip:port`    | Information 5 |
-| /getreferers     | Information 6 |
-| /setreferer `http://example.com`    | Information 7 |
-| /removerefer `http://example.com`    | Information 8 |
+| /setproxy `ip:port`    | adding new proxy |
+| /removeproxy `ip:port`    | remove proxy |
+| /getreferers     | view referers list |
+| /setreferer `http://example.com`    | set host referer |
+| /removerefer `http://example.com`    | remove host referer |
  
