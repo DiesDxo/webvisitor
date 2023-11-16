@@ -66,3 +66,6 @@ npx pm2 start main.js
 npx pm2 stop main.js
 ```
  
+## 📢 Information
+
+It should be noted that this bot must use a proxy (HTTP). If it doesn't use a proxy, this bot will not be able to run. I suggest using `10-20 Residental Proxy (HTTP)` for Socks5 or others I haven't tried, you can try it yourself
