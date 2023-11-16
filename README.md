@@ -6,7 +6,7 @@ The following is cmd management in bot :
 
 | CMD       | Information |
 |-----------|-------------|
-| /send_visitor 'url' `bot` <delay>    |  |
+| /send_visitor `url` `bot` `delay`    | example : /send_visitor 100 5 |
 | /stop_visitor     | Information 2 |
 | /getproxy     | Information 3 |
 | /setproxy     | Information 4 |
