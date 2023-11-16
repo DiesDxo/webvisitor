@@ -49,7 +49,7 @@ npm install node-telegram-bot-api
 - Prepare youre API Token telegram.
 
 ```bash
-npm i webvisitor
+npm install webvisitor
 ```
 
 ```bash
