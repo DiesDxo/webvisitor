@@ -7,11 +7,11 @@ The following is cmd management in bot :
 | CMD       | Information |
 |-----------|-------------|
 | /send_visitor `url` `bot` `delay`    | example : /send_visitor 100 5 |
-| /stop_visitor     | Information 2 |
-| /getproxy     | Information 3 |
-| /setproxy     | Information 4 |
-| /removeproxy     | Information 5 |
+| /stop_visitor     | stop process bot |
+| /getproxy     | viewing proxy list |
+| /setproxy `ip:port`    | adds proxy |
+| /removeproxy `ip:port`    | Information 5 |
 | /getreferers     | Information 6 |
-| /setreferer     | Information 7 |
-| /removerefer     | Information 8 |
+| /setreferer `http://example.com`    | Information 7 |
+| /removerefer `http://example.com`    | Information 8 |
  
