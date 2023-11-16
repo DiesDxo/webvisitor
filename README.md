@@ -47,7 +47,9 @@ mv node_modules/webvisitor ./
 ```bash
 set your api token in main.js
 
-set your proxy in proxy.txt and set host referer in referers.txt
+set your proxy in proxy.txt and 
+
+set host referer in referers.txt
 ```
 
 - and for run this bot
