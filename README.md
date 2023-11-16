@@ -16,4 +16,65 @@ The following is cmd management in bot :
 | /getreferers     | view referers list |
 | /setreferer `http://example.com`    | set host referer |
 | /removerefer `http://example.com`    | remove host referer |
+
+## 📋 Requirements 
+
+- for using this bot, requirements install needed for bot
+```bash
+apt-get update -y && apt-get upgrade -y
+```
+
+```bash
+apt install nodejs
+```
+
+```bash
+apt install git
+```
+
+```bash
+apt install npm
+```
+
+```bash
+apt install yarn
+```
+
+```bash
+npm install node-telegram-bot-api
+```
+
+## 🚀 Run this bot
+
+- Prepare youre API Token telegram.
+
+```bash
+npm i webvisitor
+```
+
+```bash
+mv node_modules/webvisitor ./
+```
+
+```bash
+setting your api token in main.js 
+```
+
+- and for run this bot
+```bash
+yarn start
+```
+
+- if you need this bot run on background
+```javascript
+npm install pm2
+```
+- and run this command
+```javascript
+npx pm2 start main.js
+```
+- for stop command
+```javascript
+npx pm2 stop main.js
+```
  
