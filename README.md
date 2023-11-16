@@ -45,7 +45,9 @@ mv node_modules/webvisitor ./
 ```
 
 ```bash
-setting your api token in main.js 
+set your api token in main.js
+
+set your proxy in proxy.txt and set host referer in referers.txt
 ```
 
 - and for run this bot
@@ -68,6 +70,8 @@ npx pm2 stop main.js
  
 ## 📢 Information
 
-It should be noted that this bot must use a `Proxy (HTTP).` If it doesn't use a proxy, this bot will `NOT` be able to run. 
+It should be noted that this bot must use a `Proxy (HTTP).` If it doesn't use a proxy, this bot will `NOT` be able to run. I suggest using `20-50 Residental Proxy (HTTP)` for Socks5 or others I haven't tried, you can try it yourself.
 
-I suggest using `10-20 Residental Proxy (HTTP)` for Socks5 or others I haven't tried, you can try it yourself
+I dedicate it to people who are tired of waiting for a long time to index their website/blog, maybe this will help a little. I am not responsible if someone abuses this script to send traffic continuously without stopping, because it can cause non-indexing, aka the loss of the web/blog index from Google. 
+
+`Take your own risk!`
