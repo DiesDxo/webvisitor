@@ -41,7 +41,7 @@ apt install yarn
 ```
 
 ```bash
-npm install node-telegram-bot-api
+npm install requirements.txt
 ```
 
 ## 🚀 Run this bot
