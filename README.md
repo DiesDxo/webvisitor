@@ -25,19 +25,7 @@ apt-get update -y && apt-get upgrade -y
 ```
 
 ```bash
-apt install nodejs
-```
-
-```bash
-apt install git
-```
-
-```bash
-apt install npm
-```
-
-```bash
-apt install yarn
+apt install nodejs git npm yarn
 ```
 
 ```bash
