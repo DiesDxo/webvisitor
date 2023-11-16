@@ -45,6 +45,10 @@ mv node_modules/webvisitor ./
 ```
 
 ```bash
+cd webvisitor
+```
+
+```bash
 set your api token in main.js
 
 set your proxy in proxy.txt and 
