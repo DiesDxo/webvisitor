@@ -33,7 +33,7 @@ The following is cmd management in bot :
 
 ## 📸 Demo Picture
 
-[img src="demo image/Screenshot_20231117-030527_Telegram.jpg" width=160>]
+[<img src="demo image/Screenshot_20231117-030547_Telegram.jpg" width=160>]
 [<img src="demo image/Screenshot_20231117-030547_Telegram.jpg" width=160>]
 [<img src="demo image/Screenshot_20231117-030646_Telegram.jpg" width=160>]
 [<img src="demo image/Screenshot_20231117-030712_Telegram.jpg" width=160>]
