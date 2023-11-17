@@ -21,7 +21,7 @@ The following is cmd management in bot :
 | /setreferer `http://example.com`    | set host referer |
 | /removerefer `http://example.com`    | remove host referer |
 
-## Demo Picture
+## 📸 Demo Picture
 
 - **Show Referers List :**
 <p align="center" width="100%">
