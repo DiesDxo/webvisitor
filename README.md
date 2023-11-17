@@ -114,7 +114,7 @@ If you find a bug or want a new feature in this bot, open an issue or pull reque
 
 This project is licensed under the [MIT License](https://github.com/naix0x/Bot-Visitor-Proxy/blob/main/LICENSE).
 
-[<img src="demo image/images (9).png" width=50>]
+<img src="demo image/images (9).png" width=50>
 
 ## 🌟 Forks and Stars
 
