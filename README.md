@@ -40,7 +40,7 @@ The following is cmd management in bot :
 
 **Success Send Traffic:**
 <p align="center" width="100%">
-    <img width="55^" src="https://github.com/naix0x/Bot-Visitor-Proxy/blob/main/demo%20image/Screenshot_20231117-030805_Telegram.jpg">
+    <img width="55%" src="https://github.com/naix0x/Bot-Visitor-Proxy/blob/main/demo%20image/Screenshot_20231117-030805_Telegram.jpg">
 </p>
 
 
