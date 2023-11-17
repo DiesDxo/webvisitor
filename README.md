@@ -1,3 +1,13 @@
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/naix0x/Bot-Visitor-Proxy/blob/main/LICENSE)
+![GitHub repo size](https://img.shields.io/github/repo-size/naix0x/Bot-Visitor-Proxy)
+![GitHub contributors](https://img.shields.io/github/contributors/naix0x/Bot-Visitor-Proxy)
+![GitHub last commit](https://img.shields.io/github/last-commit/naix0x/Bot-Visitor-Proxy)
+![GitHub forks](https://img.shields.io/github/forks/naix0x/Bot-Visitor-Proxy)
+![GitHub issues](https://img.shields.io/github/issues-raw/naix0x/Bot-Visitor-Proxy)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/naix0x/Bot-Visitor-Proxy)
+![GitHub stars](https://img.shields.io/github/stars/naix0x/Bot-Visitor-Proxy)
+
+
 # 🤖 BOT VISITOR PROXY
 
 Bot visitor is used (GET HTTP) to send traffic to the target web/blog where this bot uses a proxy to determine different IP addresses.
