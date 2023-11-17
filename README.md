@@ -33,31 +33,16 @@ The following is cmd management in bot :
 
 ## 📸 Demo Picture
 
-- **Show Referers List :**
-<p align="center" width="100%">
-    <img width="55%" src="https://github.com/naix0x/Bot-Visitor-Proxy/blob/main/demo%20image/Screenshot_20231117-030527_Telegram.jpg">
-</p>
+<details>
+  <summary><p><b>Click To View [Telegram Bot]</b><div class="div0"> <span><a href=""><img src="https://user-images.githubusercontent.com/83800532/143572065-ca450924-e72b-4041-ab31-3798618973f4.png" alt=""width="30"height="30"/><span><a href=""><img src="https://user-images.githubusercontent.com/83800532/143560346-101a5bbb-53c6-4d1d-90c9-364c3355a6b7.png" alt=""width="30"height="30"/></a></span></p></summary></div>
+<br/>
 
-- **Show Proxy List :**
-<p align="center" width="100%">
-    <img width="55%" src="https://github.com/naix0x/Bot-Visitor-Proxy/blob/main/demo%20image/Screenshot_20231117-030547_Telegram.jpg">
-</p>
-
-- **Proxy Error or Inactive :**
-<p align="center" width="100%">
-    <img width="55%" src="https://github.com/naix0x/Bot-Visitor-Proxy/blob/main/demo%20image/Screenshot_20231117-030646_Telegram.jpg">
-</p>
-
-- **Success Send Traffic :**
-<p align="center" width="100%">
-    <img width="55%" src="https://github.com/naix0x/Bot-Visitor-Proxy/blob/main/demo%20image/Screenshot_20231117-030805_Telegram.jpg">
-</p>
-
-
-- **Set & Remove Referers :**
-<p align="center" width="100%">
-    <img width="55%" src="https://github.com/naix0x/Bot-Visitor-Proxy/blob/main/demo%20image/Screenshot_20231117-030712_Telegram.jpg">
-</p>
+<p><span><img src="https://github.com/naix0x/Bot-Visitor-Proxy/blob/main/demo%20image/Screenshot_20231117-030527_Telegram.jpg" alt=""/></span></p>
+<p><span><img src="https://github.com/naix0x/Bot-Visitor-Proxy/blob/main/demo%20image/Screenshot_20231117-030547_Telegram.jpg" alt=""/></span></p>
+<p><span><img src="https://github.com/naix0x/Bot-Visitor-Proxy/blob/main/demo%20image/Screenshot_20231117-030646_Telegram.jpg" alt=""/></span></p>
+<p><span><img src="https://github.com/naix0x/Bot-Visitor-Proxy/blob/main/demo%20image/Screenshot_20231117-030805_Telegram.jpg" alt=""/></span></p>
+<p><span><img src="https://github.com/naix0x/Bot-Visitor-Proxy/blob/main/demo%20image/Screenshot_20231117-030712_Telegram.jpg" alt=""/></span></p>
+</details>
 
 
 ## 📋 Requirements 
