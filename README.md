@@ -33,8 +33,8 @@ The following is cmd management in bot :
 
 ## 📸 Demo Picture
 
-$(theDropdownMenuSelector).foundation('hide');
-$(theDropdownMenuSelector).foundation('show');
+(theDropdownMenuSelector).foundation('hide');
+(theDropdownMenuSelector).foundation('show');
 
 - **Show Referers List :**
 <p align="center" width="100%">
