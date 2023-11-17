@@ -53,7 +53,7 @@ apt install nodejs git npm yarn
 ```
 
 ```bash
-npm install requirements.txt
+npm install node-telegram-bot-api axios fs
 ```
 
 ## 🚀 Run this bot
