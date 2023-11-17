@@ -85,3 +85,23 @@ It should be noted that this bot must use a `Proxy (HTTP).` If it doesn't use a 
 I dedicate it to people who are tired of waiting for a long time to index their website/blog, maybe this will help a little. I am not responsible if someone abuses this script to send traffic continuously without stopping, because it can cause non-indexing, aka the loss of the web/blog index from Google. 
 
 `Use as necessary, take your own risk!`
+
+## 🤝 Contributing
+
+If you find a bug or want a new feature in this bot, open an issue or pull request and for those who want to contribute to this bot script. Welcome and really appreciate it.
+
+## 📝 License
+
+This project is licensed under the [MIT License](https://github.com/naix0x/Bot-Visitor-Proxy/blob/main/LICENSE).
+
+## 👥 Forks and Stars
+
+If you find this project useful, please give it a star ⭐ and consider forking it 🍴 to support its development and help it reach a wider audience.
+
+
+## 👤 Development
+
+[![Mustofa Bovalone](https://github.com/naix0x.png?size=100)](https://github.com/naix0x) |
+----|
+[Mustofa Bovalone](https://t.me/maticstable) |
+Author, Base, Bug Fixes  |
