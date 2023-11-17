@@ -24,18 +24,18 @@ The following is cmd management in bot :
 ## Demo Picture
 
 **Align left:**
-<p align="left" width="100%">
-    <img width="33%" src="https://github.com/naix0x/Bot-Visitor-Proxy/blob/main/demo%20image/Screenshot_20231117-030527_Telegram.jpg">
+<p align="center" width="100%">
+    <img width="50%" src="https://github.com/naix0x/Bot-Visitor-Proxy/blob/main/demo%20image/Screenshot_20231117-030527_Telegram.jpg">
 </p>
 
 **Align center:**
 <p align="center" width="100%">
-    <img width="33%" src="https://github.com/naix0x/Bot-Visitor-Proxy/blob/main/demo%20image/Screenshot_20231117-030547_Telegram.jpg">
+    <img width="50%" src="https://github.com/naix0x/Bot-Visitor-Proxy/blob/main/demo%20image/Screenshot_20231117-030547_Telegram.jpg">
 </p>
 
 **Align right:**
-<p align="right" width="100%">
-    <img width="33%" src="https://github.com/naix0x/Bot-Visitor-Proxy/blob/main/demo%20image/Screenshot_20231117-030646_Telegram.jpg">
+<p align="center" width="100%">
+    <img width="50%" src="https://github.com/naix0x/Bot-Visitor-Proxy/blob/main/demo%20image/Screenshot_20231117-030646_Telegram.jpg">
 </p>
 
 ## 📋 Requirements 
