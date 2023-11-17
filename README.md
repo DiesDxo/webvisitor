@@ -23,17 +23,17 @@ The following is cmd management in bot :
 
 ## Demo Picture
 
-**Align left:**
+**Show Referers List:**
 <p align="center" width="100%">
     <img width="50%" src="https://github.com/naix0x/Bot-Visitor-Proxy/blob/main/demo%20image/Screenshot_20231117-030527_Telegram.jpg">
 </p>
 
-**Align center:**
+**Show Proxy List:**
 <p align="center" width="100%">
     <img width="50%" src="https://github.com/naix0x/Bot-Visitor-Proxy/blob/main/demo%20image/Screenshot_20231117-030547_Telegram.jpg">
 </p>
 
-**Align right:**
+**Proxy Error or Inactive:**
 <p align="center" width="100%">
     <img width="50%" src="https://github.com/naix0x/Bot-Visitor-Proxy/blob/main/demo%20image/Screenshot_20231117-030646_Telegram.jpg">
 </p>
