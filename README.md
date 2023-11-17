@@ -25,28 +25,28 @@ The following is cmd management in bot :
 
 **Show Referers List:**
 <p align="center" width="100%">
-    <img width="70%" src="https://github.com/naix0x/Bot-Visitor-Proxy/blob/main/demo%20image/Screenshot_20231117-030527_Telegram.jpg">
+    <img width="55%" src="https://github.com/naix0x/Bot-Visitor-Proxy/blob/main/demo%20image/Screenshot_20231117-030527_Telegram.jpg">
 </p>
 
 **Show Proxy List:**
 <p align="center" width="100%">
-    <img width="70%" src="https://github.com/naix0x/Bot-Visitor-Proxy/blob/main/demo%20image/Screenshot_20231117-030547_Telegram.jpg">
+    <img width="55%" src="https://github.com/naix0x/Bot-Visitor-Proxy/blob/main/demo%20image/Screenshot_20231117-030547_Telegram.jpg">
 </p>
 
 **Proxy Error or Inactive:**
 <p align="center" width="100%">
-    <img width="70%" src="https://github.com/naix0x/Bot-Visitor-Proxy/blob/main/demo%20image/Screenshot_20231117-030646_Telegram.jpg">
+    <img width="55%" src="https://github.com/naix0x/Bot-Visitor-Proxy/blob/main/demo%20image/Screenshot_20231117-030646_Telegram.jpg">
 </p>
 
-**Proxy Error or Inactive:**
+**Success Send Traffic:**
 <p align="center" width="100%">
-    <img width="70%" src="https://github.com/naix0x/Bot-Visitor-Proxy/blob/main/demo%20image/Screenshot_20231117-030805_Telegram.jpg">
+    <img width="55^" src="https://github.com/naix0x/Bot-Visitor-Proxy/blob/main/demo%20image/Screenshot_20231117-030805_Telegram.jpg">
 </p>
 
 
-**Proxy Error or Inactive:**
+**Set & Remove Referers:**
 <p align="center" width="100%">
-    <img width="70%" src="https://github.com/naix0x/Bot-Visitor-Proxy/blob/main/demo%20image/Screenshot_20231117-030712_Telegram.jpg">
+    <img width="55%" src="https://github.com/naix0x/Bot-Visitor-Proxy/blob/main/demo%20image/Screenshot_20231117-030712_Telegram.jpg">
 </p>
 
 
