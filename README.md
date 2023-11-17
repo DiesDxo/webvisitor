@@ -84,4 +84,4 @@ It should be noted that this bot must use a `Proxy (HTTP).` If it doesn't use a 
 
 I dedicate it to people who are tired of waiting for a long time to index their website/blog, maybe this will help a little. I am not responsible if someone abuses this script to send traffic continuously without stopping, because it can cause non-indexing, aka the loss of the web/blog index from Google. 
 
-`use as necessary, take your own risk!`
+`Use as necessary, take your own risk!`
