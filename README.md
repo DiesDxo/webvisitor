@@ -12,7 +12,7 @@ The following is cmd management in bot :
 
 | CMD       | Information |
 |-----------|-------------|
-| /send_visitor `url` `bot` `delay`    | example : /send_visitor 100 5 |
+| /send_visitor `url` `bot` `delay`    | example : '/send_visitor https://websitetarget.com 100 5' |
 | /stop_visitor     | stop process bot |
 | /getproxy     | viewing proxy list |
 | /setproxy `ip:port`    | adding new proxy |
