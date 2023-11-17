@@ -10,9 +10,9 @@
 
 # 🤖 BOT VISITOR PROXY
 
-Bot visitor is used `(GET HTTP)` to send traffic to the target web/blog where this bot uses a proxy to determine different IP addresses.
+Bot visitor is used `(GET HTTP)` to send traffic to the target web/blog where this bot uses a proxy to determine different `IP Addresses.`
 
-This bot uses 1000 user-agents which can send to different types of devices used, to avoid spam detection on the target website. So you don't need to bother adding a user-agent, you only need to add the Proxy and Host Referers that you want to use. 
+This bot uses 1000 user-agents which can send to different types of devices used, to avoid spam detection on the target website. So you don't need to bother adding a user-agent, you only need to `add` the `Proxy` and `Host Referers` that you want to use. 
 
 Don't use Host Referrers for `pornography`, `gambling`, or anything else. Because it can cause the targeted website/blog to become `non-indexed` by Google
 
