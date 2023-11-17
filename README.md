@@ -23,7 +23,7 @@ The following is cmd management in bot :
 
 ## Demo Picture
 
-**- Show Referers List :**
+- **Show Referers List :**
 <p align="center" width="100%">
     <img width="55%" src="https://github.com/naix0x/Bot-Visitor-Proxy/blob/main/demo%20image/Screenshot_20231117-030527_Telegram.jpg">
 </p>
