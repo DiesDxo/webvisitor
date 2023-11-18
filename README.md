@@ -104,6 +104,8 @@ It should be noted that this bot must use a `Proxy (HTTP).` If it doesn't use a 
 
 I dedicate it to people who are tired of waiting for a long time to index their website/blog, maybe this will help a little. I am not responsible if someone abuses this script to send traffic continuously without stopping, because it can cause non-indexing, aka the loss of the web/blog index from Google. 
 
+if there is an error in sending visitors, as in the demo photo that I have shown. This is not due to an error in the script, but rather an error from the proxy used, such as error 407 which means the proxy did not accept authentication.
+
 `Use as necessary, take your own risk!`
 
 ## 🤝 Contributing
