@@ -106,6 +106,9 @@ I dedicate it to people who are tired of waiting for a long time to index their 
 
 if there is an error in sending visitors, as in the demo photo that I have shown. This is not due to an error in the script, but rather an error from the proxy used, such as error 407 which means the proxy did not accept authentication.
 
+If there is a bug, open an issue as soon as possible and I will fix it asap soon as possible.
+
+
 `Use as necessary, take your own risk!`
 
 ## 🤝 Contributing
