@@ -42,7 +42,7 @@ The following is cmd management in bot :
 
 ## 🆕 Update Version
 
-- Version 3.2.0
+- Version 3.3.2
 
 I have added a proxy to support use with username and password, or without username and password, like `user:pass@ip:port` and `ip:port`
 
