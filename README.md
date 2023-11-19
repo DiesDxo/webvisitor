@@ -130,7 +130,7 @@ This project is licensed under the [MIT License](https://github.com/naix0x/Bot-V
 
 If you find this project useful, please give it a star ⭐ and consider forking it 🍴 to support its development and help it reach a wider audience.
 
-## ☕ Buy me coffe
+## ☕ Project usesless? 
 
 <a href="https://saweria.co/naix0x" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
