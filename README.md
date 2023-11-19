@@ -26,7 +26,7 @@ The following is cmd management in bot :
 | /stop_visitor     | stop process bot |
 | /getproxy     | viewing proxy list |
 | /setproxy `user:pass@ip:port` or `ip:port`    | adding new proxy |
-| /removeproxy `ip:port`    | remove proxy |
+| /removeproxy `user:pass@ip:port` or `ip:port`    | remove proxy |
 | /getreferers     | view referers list |
 | /setreferer `http://example.com`    | set host referer |
 | /removerefer `http://example.com`    | remove host referer |
