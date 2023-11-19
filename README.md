@@ -40,6 +40,11 @@ The following is cmd management in bot :
 [<img src="demo image/Screenshot_20231117-030805_Telegram.jpg" width=160>]
 
 
+## 🆕 Update Version
+
+- Version 3.2.0
+
+I have added a proxy to support use with username and password, or without username and password, like `user:pass@ip:port`
 
 ## 📋 Requirements 
 
