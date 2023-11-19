@@ -22,7 +22,7 @@ The following is cmd management in bot :
 
 | CMD       | Information |
 |-----------|-------------|
-| /send_visitor `url` `bot` `delay`    | example : `/send_visitor https://websitetarget.com 100 5` |
+| /send_visitor `url` `bot` `delay`    | example : `/send_visitor http://websitetarget.com 100 5` |
 | /stop_visitor     | stop process bot |
 | /getproxy     | viewing proxy list |
 | /setproxy `user:pass@ip:port` or `ip:port`    | adding new proxy |
@@ -30,6 +30,8 @@ The following is cmd management in bot :
 | /getreferers     | view referers list |
 | /setreferer `http://example.com`    | set host referer |
 | /removerefer `http://example.com`    | remove host referer |
+
+must use http:// like /send_visitor http://targat.com 10 5
 
 ## 📸 Demo Picture
 
