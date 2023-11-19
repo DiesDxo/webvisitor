@@ -132,6 +132,8 @@ If you find this project useful, please give it a star ⭐ and consider forking 
 
 ## ☕ Project usesless? 
 
+If this project is very helpful, you can support me to be more enthusiastic about developing it
+
 <a href="https://saweria.co/naix0x" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
 ## 👤 Development
