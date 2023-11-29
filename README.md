@@ -8,7 +8,7 @@
 ![GitHub stars](https://img.shields.io/github/stars/naix0x/Bot-Visitor-Proxy)
 
 
-# 🤖 BOT VISITOR PROXY
+# <h1 align="center">🤖 BOT VISITOR PROXY</h1>
 
 <center><img src="demo image/Layer7-http.png" width=300></center>
 
