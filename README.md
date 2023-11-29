@@ -11,7 +11,7 @@
 # <h1 align="center">🤖 BOT VISITOR PROXY</h1>
 
 <p align="center">
-    <img width="300" src="demo image/Layer7-http.png" alt="Layer7">
+    <img width="400" src="demo image/Layer7-http.png" alt="Layer7">
 </p>
 
 
