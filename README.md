@@ -45,17 +45,17 @@ The following is cmd management in bot :
 
 ## 🆕 Update Version
 
-- Version 4.0.0
+- Version 4.0.0 (29/11/2023)
 
-Update running scripted without proxies (29/11/2023)
+Update running scripted without proxies 
 
-- Version 3.3.4
+- Version 3.3.4 (20/11/2023)
 
-Fix bug send http:// error (20/11/2023
+Fix bug send http:// error 
 
-- Version 3.3.2
+- Version 3.3.2 (18/11/2023)
 
-I have added a proxy to support use with username and password, or without username and password, like `user:pass@ip:port` and `ip:port` (18/11/2023)
+I have added a proxy to support use with username and password, or without username and password, like `user:pass@ip:port` and `ip:port` 
 
 ## 📋 Requirements 
 
