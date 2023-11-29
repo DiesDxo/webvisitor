@@ -41,6 +41,7 @@ The following is cmd management in bot :
 [<img src="demo image/Screenshot_20231117-030646_Telegram.jpg" width=160>]
 [<img src="demo image/Screenshot_20231117-030712_Telegram.jpg" width=160>]
 [<img src="demo image/Screenshot_20231117-030805_Telegram.jpg" width=160>]
+[<img src="demo image/Screenshot_20231129-234802_Telegram.png" width=160>]
 
 
 ## 🆕 Update Version
