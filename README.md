@@ -90,7 +90,7 @@ cd webvisitor
 ```
 
 ```bash
-set your api token in main.js
+set your api token in config.js
 
 set your proxy in proxy.txt and 
 
