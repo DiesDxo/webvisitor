@@ -10,7 +10,7 @@
 
 # 🤖 BOT VISITOR PROXY
 
-<center><img src="demo image/Layer7-http.png" width=160></center>
+<center><img src="demo image/Layer7-http.png" width=300></center>
 
 Bot visitor is used `(GET HTTP)` to send traffic to the target web/blog where this bot uses a proxy to determine different `IP Addresses.`
 
