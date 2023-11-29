@@ -12,7 +12,7 @@
 
 <center><img src="demo image/Layer7-http.png" width=300></center>
 
-Bot visitor is used `(GET HTTP)` to send traffic to the target web/blog where this bot uses a proxy to determine different `IP Addresses.`
+Bot visitor is used `(GET HTTP)` to send traffic to the target web/blog where this bot `uses` or `not` a proxy to determine different `IP Addresses.`
 
 This bot uses 1000 user-agents which can send to different types of devices used, to avoid spam detection on the target website. So you don't need to bother adding a user-agent, you only need to `add` the `Proxy` and `Host Referers` that you want to use. 
 
