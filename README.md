@@ -122,7 +122,9 @@ If there is a bug, open an issue and I will fix it asap soon as possible.
 
 
 `Use as necessary, take your own risk!`
+## Another Project
 
+If you think this is too complicated, you can use another project of mine, without a proxy and without using bots. because this shell script is used to flood http, here we go. [HTTP Flooder](https://github.com/naix0x/httprequest).
 ## 🤝 Contributing
 
 If you find a bug or want a new feature in this bot, open an issue or pull request and for those who want to contribute to this bot script. Welcome and really appreciate it.
