@@ -117,7 +117,9 @@ npx pm2 stop main.js
  
 ## 📢 Information
 
-It should be noted that this bot must use a `Proxy (HTTP).` If it doesn't use a proxy, this bot will `NOT` be able to run. I suggest using `20-50 Residental Proxy (HTTP)` for Socks5 or others I haven't tried, you can try it yourself.
+ ̶I̶t̶ ̶s̶h̶o̶u̶l̶d̶ ̶b̶e̶ ̶n̶o̶t̶e̶d̶ ̶t̶h̶a̶t̶ ̶t̶h̶i̶s̶ ̶b̶o̶t̶ ̶m̶u̶s̶t̶ ̶u̶s̶e̶ ̶a̶ ̶`̶P̶r̶o̶x̶y̶ ̶(̶H̶T̶T̶P̶)̶.̶`̶ ̶I̶f̶ ̶i̶t̶ ̶d̶o̶e̶s̶n̶'̶t̶ ̶u̶s̶e̶ ̶a̶ ̶p̶r̶o̶x̶y̶,̶ ̶t̶h̶i̶s̶ ̶b̶o̶t̶ ̶w̶i̶l̶l̶ ̶`̶N̶O̶T̶`̶ ̶b̶e̶ ̶a̶b̶l̶e̶ ̶t̶o̶ ̶r̶u̶n̶.̶ I suggest using `20-50 Residental Proxy (HTTP)` for Socks5 or others I haven't tried, you can try it yourself.
+
+Now already support with running without proxies!
 
 I dedicate it to people who are tired of waiting for a long time to index their website/blog, maybe this will help a little. I am not responsible if someone abuses this script to send traffic continuously without stopping, because it can cause non-indexing, aka the loss of the web/blog index from Google. 
 
