@@ -1,6 +1,5 @@
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/naix0x/Bot-Visitor-Proxy/blob/main/LICENSE)
 ![GitHub repo size](https://img.shields.io/github/repo-size/naix0x/Bot-Visitor-Proxy)
-![GitHub contributors](https://img.shields.io/github/contributors/naix0x/Bot-Visitor-Proxy)
 ![GitHub issues](https://img.shields.io/github/issues-raw/naix0x/Bot-Visitor-Proxy)
 
 # <h1 align="center">🤖 BOT VISITOR PROXY</h1>
